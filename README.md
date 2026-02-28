@@ -8,8 +8,8 @@ A premium scroll-driven hero section built with vanilla HTML, CSS, JavaScript, a
 
 | | Link |
 |---|---|
-| 🌐 **Live Webpage** | `https://YOUR-USERNAME.github.io/itzfizz-hero` |
-| 📁 **GitHub Repository** | `https://github.com/YOUR-USERNAME/itzfizz-hero` |
+| 🌐 **Live Webpage** | `https://xrisxi.github.io/itzfizz/` |
+| 📁 **GitHub Repository** | `https://github.com/XrisXi/itzfizz` |
 
 > Replace `YOUR-USERNAME` with your actual GitHub username after deployment.
 
