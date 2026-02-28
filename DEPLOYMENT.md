@@ -8,8 +8,8 @@ This guide walks you through getting your live URL and GitHub repository link fo
 
 After following these steps:
 
-- ✅ **Live URL:** `https://YOUR-USERNAME.github.io/itzfizz-hero`
-- ✅ **Repo URL:** `https://github.com/YOUR-USERNAME/itzfizz-hero`
+- ✅ **Live URL:** `https://xrisxi.github.io/itzfizz/`
+- ✅ **Repo URL:** `https://github.com/XrisXi/itzfizz`
 
 ---
 
